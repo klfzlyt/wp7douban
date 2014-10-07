@@ -104,5 +104,14 @@ namespace AudioPlaybackAgent {
                 return ResourceManager.GetString("SongPictureStrategy", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   查找类似 SongPlayList.dat 的本地化字符串。
+        /// </summary>
+        internal static string SongPlayList {
+            get {
+                return ResourceManager.GetString("SongPlayList", resourceCulture);
+            }
+        }
     }
 }

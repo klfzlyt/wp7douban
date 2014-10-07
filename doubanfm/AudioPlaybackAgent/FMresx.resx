@@ -133,4 +133,7 @@
     <value>SongPictureStrategy.dat</value>
     <comment>文件名获得</comment>
   </data>
+  <data name="SongPlayList" xml:space="preserve">
+    <value>SongPlayList.dat</value>
+  </data>
 </root>
